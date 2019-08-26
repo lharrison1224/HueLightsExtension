@@ -13,7 +13,7 @@ const userInfo = {
 };
 ```
 
-Note: the ip of your bridge can be found by going [here]('https://discovery.meethue.com/'). The extension will dynamically update your ip should it change.
+Note: the ip of your bridge can be found by going [here](https://discovery.meethue.com/). The extension will dynamically update your ip should it change.
 
 ## Use
 
