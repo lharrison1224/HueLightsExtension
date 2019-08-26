@@ -1,0 +1,78 @@
+body {
+  width: 300px;
+  font-family: 'Menlo';
+}
+
+h1 {
+}
+
+button {
+  border-radius: 10px;
+  height: 20px;
+  font-family: 'Menlo';
+}
+
+.gray-hr {
+  border-top: 1px solid #ddd;
+  margin: 0px 5px 0px 5px;
+}
+
+.title-container {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.on-off-container {
+  margin: 10px;
+  text-align: center;
+}
+
+.color-container {
+  margin: 10px;
+  text-align: center;
+}
+
+.normal-container {
+  margin: 10px;
+  text-align: center;
+}
+
+.on-off-button {
+  width: 50px;
+}
+
+.color-button {
+  width: 12%;
+}
+
+.normal-button {
+  width: 60px;
+}
+
+#red-button {
+  background-color: red;
+}
+
+#orange-button {
+  background-color: orange;
+}
+
+#yellow-button {
+  background-color: yellow;
+}
+
+#green-button {
+  background-color: green;
+}
+
+#blue-button {
+  background-color: blue;
+}
+
+#indigo-button {
+  background-color: indigo;
+}
+
+#violet-button {
+  background-color: violet;
+}

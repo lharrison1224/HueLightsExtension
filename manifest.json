@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Hue Lights Controller",
+  "description": "Quick controls for Philips Hue smart lights.",
+  "version": "1.0.0",
+  "icons": {
+    "128": "icons/icon_128.png"
+  },
+  "browser_action": {
+    "default_icon": "icons/icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"],
+  "web_accessible_resources": ["config.json", "userInfo.json"]
+}
